@@ -1,0 +1,6 @@
+C:\PHD\60-Experiments\70 - Algorithms\ViterbiTracking\ViterbiTracking\bin\Debug\ViterbiTracking.exe.config
+C:\PHD\60-Experiments\70 - Algorithms\ViterbiTracking\ViterbiTracking\obj\Debug\ViterbiTracking.csprojResolveAssemblyReference.cache
+C:\PHD\60-Experiments\70 - Algorithms\ViterbiTracking\ViterbiTracking\bin\Debug\ViterbiTracking.exe
+C:\PHD\60-Experiments\70 - Algorithms\ViterbiTracking\ViterbiTracking\bin\Debug\ViterbiTracking.pdb
+C:\PHD\60-Experiments\70 - Algorithms\ViterbiTracking\ViterbiTracking\obj\Debug\ViterbiTracking.exe
+C:\PHD\60-Experiments\70 - Algorithms\ViterbiTracking\ViterbiTracking\obj\Debug\ViterbiTracking.pdb
