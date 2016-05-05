@@ -93,11 +93,11 @@ namespace ViterbiTracking
                 objectsByWorldState.Add(objectsAtWorldState);
             }
 
-            // to demonstrate that this algorithm can deal with unconsistent number of objects
-            // by world state, add an extra object in the second worldstate.
-            // At the end, one of the objects in this wolrd state wont take part in any path
-            thisObject = new TrackedObject(rnd.Next(0, 100), rnd.Next(0, 100), objectsByWorldState[1].Count);
-            objectsByWorldState[1].Add(thisObject);
+            //- to demonstrate that this algorithm can deal with unconsistent number of objects
+            //- by world state, add an extra object in the second worldstate.
+            //- At the end, one of the objects in this wolrd state wont take part in any path
+            //thisObject = new TrackedObject(rnd.Next(0, 100), rnd.Next(0, 100), objectsByWorldState[1].Count);
+            //objectsByWorldState[1].Add(thisObject);
 
             return objectsByWorldState;
         }
